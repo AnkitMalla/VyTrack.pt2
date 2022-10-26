@@ -90,7 +90,7 @@ public class UserStory07 {
         WebElement car1= driver.findElement(By.xpath("//tbody[@class='grid-body']/tr[1]/td[1]/input"));
         System.out.println("car1.isSelected() = " + car1.isSelected());
         car1.click();
-        System.out.println("car1.isSelected() = " + car1.isSelected());
+        System.out.println("car1.isSelected()   = " + car1.isSelected());
 
 
     }
