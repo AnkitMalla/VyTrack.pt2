@@ -1,4 +1,4 @@
-package src.test.java.com.vytrack.luisTests;
+package com.vytrack.tests.luisTests;
 
 import com.vytrack.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
