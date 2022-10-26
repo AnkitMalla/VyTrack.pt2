@@ -1,2 +1,5 @@
 src/test/java/com/vytrack/testIana/US50_Users_access_to_the_Oroinc_Documentation_page.class
 com/vytrack/utilities/WebDriverFactory.class
+src/test/java/com/vytrack/Nicalae_class.class
+com/vytrack/tests/Ankit/UserStory07.class
+com/vytrack/tests/luisTests/US49_AccessMainModules.class

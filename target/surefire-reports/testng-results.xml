@@ -2,10 +2,10 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-26T11:33:17 CDT" name="src.test.java.com.vytrack.luisTests.TestingYes" finished-at="2022-10-26T11:33:17 CDT" duration-ms="42">
+  <suite started-at="2022-10-26T11:52:33 CDT" name="src.test.java.com.vytrack.luisTests.TestingYes" finished-at="2022-10-26T11:52:34 CDT" duration-ms="47">
     <groups>
     </groups>
-    <test started-at="2022-10-26T11:33:17 CDT" name="Command line test" finished-at="2022-10-26T11:33:17 CDT" duration-ms="42">
+    <test started-at="2022-10-26T11:52:33 CDT" name="Command line test" finished-at="2022-10-26T11:52:34 CDT" duration-ms="47">
     </test> <!-- Command line test -->
   </suite> <!-- src.test.java.com.vytrack.luisTests.TestingYes -->
 </testng-results>
