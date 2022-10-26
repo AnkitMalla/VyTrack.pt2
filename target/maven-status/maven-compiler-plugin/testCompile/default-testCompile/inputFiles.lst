@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 C:\Users\dddch\IdeaProjects\VyTrack.pt2\src\test\java\com\vytrack\utilities\WebDriverFactory.java
 C:\Users\dddch\IdeaProjects\VyTrack.pt2\src\test\java\com\vytrack\luisTests\TestingYes.java
+=======
+/Users/kavuziki/IdeaProjects/VyTrack.pt2/src/test/java/com/vytrack/test_Iana/US50_Users_access_to_the_Oroinc_Documentation_page.java
+/Users/kavuziki/IdeaProjects/VyTrack.pt2/src/test/java/com/vytrack/utilities/WebDriverFactory.java
+>>>>>>> 2967e09 (US50 is completed and tests passed)
