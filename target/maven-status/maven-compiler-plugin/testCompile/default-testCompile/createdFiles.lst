@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+com\vytrack\utilities\WebDriverFactory.class
+src\test\java\com\vytrack\luisTests\TestingYes.class
+=======
 com/vytrack/test_Iana/US50_Users_access_to_the_Oroinc_Documentation_page.class
 com/vytrack/utilities/WebDriverFactory.class
+>>>>>>> 2967e09 (US50 is completed and tests passed)
